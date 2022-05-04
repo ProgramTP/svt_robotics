@@ -1,0 +1,22 @@
+{
+  "name": "svt_robotics",
+  "version": "1.0.0",
+  "description": "Takehome assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgramTP/svt_robotics.git"
+  },
+  "author": "ProgramTP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgramTP/svt_robotics/issues"
+  },
+  "homepage": "https://github.com/ProgramTP/svt_robotics#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
